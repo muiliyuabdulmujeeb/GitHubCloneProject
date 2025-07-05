@@ -1,1 +1,1 @@
-This is a file for feature and it is created under the feature branch
+This is a new feature.
